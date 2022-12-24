@@ -12,6 +12,7 @@
 
 🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
 
+<img align="right"  src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 </h1>
 
 
@@ -42,7 +43,7 @@ projects.</b><br>
 <br>&nbsp; &nbsp; ✓ HTML5, PHP, Javascript and their frameworks
 <br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
 <br>&nbsp; &nbsp; ✓ Github, Gitlab -->
-<img align="right"  src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
+
 <h1 align="center">Languages</h1>
 <div>
 <p align="left">
