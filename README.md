@@ -144,11 +144,11 @@ projects.</b><br>
 </div>
 <h1 align="center">My Github Status </h1>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeus-dev919&show_icons=true&locale=en" alt="zeus-dev919" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zeus-dev919&show_icons=true&locale=en" alt="zeus-dev919" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeus-dev919&" alt="zeus-dev919" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeus-dev919&" alt="zeus-dev919" /></p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/zeus-dev919?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zeus-dev919"/></a>
   <a href="https://github.com/zeus-dev919?tab=followers">
