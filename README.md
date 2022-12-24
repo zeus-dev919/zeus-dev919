@@ -15,7 +15,7 @@
 <img src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 </h1>
 <h1 align="center">My Github Trophies </h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy272" alt="zeus-dev919" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeus-dev919" alt="zeus-dev919" /></a> </p>
 
 <!-- <h2>[BLOCHCHAIN]</h2>
 <b>I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
