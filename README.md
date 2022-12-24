@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/zeus-dev919"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Expert;Senior%20Blockchain%20developer;7%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<h1 align="center">Hi 👋, I'm Jouji Yoshino</h1>
-<h3 align="center">🏆 Senior Fullstack Developer 🏆</h3>
+<h1 align="center">Hi, Everyone 👋 </h1>
+<h3 align="center">🏆 I'm Senior Fullstack & Web3 Developer with 7 years experience 🏆</h3>
 
 
 
-👨🏼‍💻 Skilled Software Architect and Engineer with over 10 years of rich experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
+👨🏼‍💻 Skilled Software Architect and Engineer with over 7 years of rich experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
 🎯 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
 
