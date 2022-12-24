@@ -12,7 +12,7 @@
 
 🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
 
-<img align="right"  src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
+<img src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 </h1>
 
 
