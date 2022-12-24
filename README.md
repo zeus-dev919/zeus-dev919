@@ -14,7 +14,7 @@
 
 </h1>
 
-<img align="right"  src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
+
 
 <!-- <h2>[BLOCHCHAIN]</h2>
 <b>I am a senior blockchain developer with rich experience in developing various Dapps such as Defi, DEX and
@@ -42,7 +42,7 @@ projects.</b><br>
 <br>&nbsp; &nbsp; ✓ HTML5, PHP, Javascript and their frameworks
 <br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
 <br>&nbsp; &nbsp; ✓ Github, Gitlab -->
-
+<img align="right"  src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 <h1 align="center">Languages</h1>
 <div>
 <p align="left">
