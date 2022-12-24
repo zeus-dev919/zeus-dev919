@@ -144,9 +144,9 @@ projects.</b><br>
 </div>
 <h1 align="center">My Github Status </h1>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=billy272&show_icons=true&locale=en" alt="billy272" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeus-dev919&show_icons=true&locale=en" alt="zeus-dev919" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=billy272&" alt="billy272" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeus-dev919&" alt="zeus-dev919" /></p>
 
 <p align="right">
   <a href="https://github.com/zeus-dev919?tab=repositories&sort=stargazers">
