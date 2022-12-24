@@ -141,11 +141,6 @@ projects.</b><br>
     </a>
 </p>
 
-
-<!-- https://github.com/zeus-dev919/github-readme-activity-graph -->
-
-<!-- <a href="https://github.com/zeus-dev919/zeus-dev919"><img alt="tDev0809's activity graph" src="https://activity-graph.herokuapp.com/graph?username=zeus-dev919&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
-
 <p align="right">
   <a href="https://github.com/zeus-dev919?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zeus-dev919"/></a>
