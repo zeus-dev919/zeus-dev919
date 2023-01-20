@@ -1,17 +1,8 @@
 <p align="center">
-  <a href="https://github.com/zeus-dev919"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Expert;Senior%20Blockchain%20developer;7%2B%20years%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <h1 align="center">Hi, Everyone 👋 </h1>
-<h3 align="center">🏆 Passionate and Creative Frontend & Web3 Developer with 7 years experience 🏆</h3>
 
 <p align="center"></p>
-
-👨🏼‍💻 Skilled Software Architect and Engineer with over 7 years of rich experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
-
-🎯 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
-
-🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
-
 <img src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 </h1>
 <h1 align="center">My Github Trophies </h1>
