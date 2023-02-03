@@ -264,9 +264,6 @@ projects.</b><br>
 </p>
 <h1 align="center">My Github Status </h1>
 
-
-<p align="center"><img src="https://streak-stats.demolab.com/demo/preview.php?user=zeus-dev919&hide_border=true&refresh=1" alt="zeus-dev919" /></p>
-
 <p align="center">
   <a href="https://github.com/zeus-dev919?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zeus-dev919"/></a>
