@@ -264,7 +264,6 @@ projects.</b><br>
 </p>
 <h1 align="center">My Github Status </h1>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zeus-dev919&show_icons=true&locale=en" alt="zeus-dev919" /></p>
 
 <p align="center"><img src="https://streak-stats.demolab.com/demo/preview.php?user=zeus-dev919&hide_border=true&refresh=1" alt="zeus-dev919" /></p>
 
