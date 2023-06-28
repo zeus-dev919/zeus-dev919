@@ -91,8 +91,8 @@ Professional Full Stack engineer, web development using MERN stack, Laravel/Vue,
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeus-dev919&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptotopstar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeus-dev919&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
