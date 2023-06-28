@@ -87,7 +87,7 @@ Professional Full Stack engineer, web development using MERN stack, Laravel/Vue,
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zeus-dev919&theme=dark&background=000000"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
